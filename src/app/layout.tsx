@@ -5,15 +5,15 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Meetup Analytics Dashboard',
-  description: 'Custom analytics dashboard for Meetup groups and events',
+  title: 'Community Lens',
+  description: 'Analytics dashboard for community groups and events',
   manifest: '/manifest.json',
   themeColor: '#8b5cf6',
   viewport: 'width=device-width, initial-scale=1, maximum-scale=1',
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',
-    title: 'Meetup Analytics',
+    title: 'Community Lens',
   },
 };
 

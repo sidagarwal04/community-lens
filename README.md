@@ -1,6 +1,6 @@
-# Meetup Analytics Dashboard
+# Community Lens
 
-A modern, responsive analytics dashboard for visualizing Meetup groups and events data from Google Sheets. Built with Next.js, TypeScript, and Tailwind CSS.
+A modern, responsive analytics dashboard for visualizing community groups and events data from Google Sheets. Built with Next.js, TypeScript, and Tailwind CSS.
 
 ## ✨ Features
 
@@ -36,8 +36,8 @@ A modern, responsive analytics dashboard for visualizing Meetup groups and event
 
 1. **Clone and Install**
 ```bash
-git clone https://github.com/sidagarwal04/meetup-dashboard.git
-cd meetup-dashboard
+git clone https://github.com/sidagarwal04/community-lens.git
+cd community-lens
 npm install
 ```
 
@@ -139,7 +139,7 @@ From URL: `https://docs.google.com/spreadsheets/d/[SPREADSHEET_ID]/edit`
 ## 📁 Project Structure
 
 ```
-meetup-dashboard/
+community-lens/
 ├── src/
 │   ├── app/
 │   │   ├── layout.tsx         # Root layout

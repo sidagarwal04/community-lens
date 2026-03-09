@@ -1,7 +1,7 @@
 {
-  "name": "Meetup Analytics Dashboard",
-  "short_name": "Meetup Analytics",
-  "description": "Custom analytics dashboard for Meetup groups and events",
+  "name": "Community Lens",
+  "short_name": "Community Lens",
+  "description": "Analytics dashboard for community groups and events",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

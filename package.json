@@ -1,7 +1,7 @@
 {
-  "name": "meetup-analytics-dashboard",
+  "name": "community-lens",
   "version": "1.0.0",
-  "description": "Custom Meetup Analytics Dashboard PWA",
+  "description": "Community Lens - Analytics dashboard for community groups and events",
   "private": true,
   "scripts": {
     "dev": "next dev",

@@ -445,10 +445,10 @@ export default function Home() {
           <div className="flex items-center justify-between">
             <div>
               <h1 className="text-2xl font-bold text-gray-900">
-                Meetup Analytics Dashboard
+                Community Lens
               </h1>
               <p className="text-sm text-gray-600 mt-1">
-                Track your Meetup groups and events performance
+                Track your community groups and events performance
               </p>
             </div>
             <button
