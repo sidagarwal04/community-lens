@@ -9,6 +9,8 @@ const withPWA = require('next-pwa')({
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  // Explicitly allow Turbopack (Next.js 16 default) despite next-pwa's webpack config
+  turbopack: {},
 }
 
 module.exports = withPWA(nextConfig)
